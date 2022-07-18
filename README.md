@@ -1,4 +1,2 @@
 # RedmineConnectorRelease
-repository for release exe files
-
-Last Version V1.0.8
+repository for release Ms Project plugin installer files for https://github.com/conveniencable/microsoft_project_connector
